@@ -1,0 +1,4 @@
+# Application configuration (example)
+app:
+  name: document-reader-generic
+  log_level: INFO
